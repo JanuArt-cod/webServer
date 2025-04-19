@@ -11,7 +11,8 @@ Web server adalah sebuah perangkat lunak (software) atau kombinasi perangkat ker
 Web server menyajikan konten website seperti halaman HTML, gambar, video, dan file lainnya ke pengguna akhir. Ketika pengguna mengetikkan alamat website di browser, browser akan mengirim permintaan ke web server, dan web server akan mengirimkan kembali data yang diminta agar ditampilkan di browser.
 
 ---
-![Screenshot 2025-04-17 233241]([https://github.com/user-attachments/assets/9d51c599-81bf-4d9d-ac2e-582a004d898c](https://media.licdn.com/dms/image/v2/D4D12AQExGSjbIi_-Mg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1676207646033?e=2147483647&v=beta&t=V_oJZ-sfSHS_Jv7VpR-XLNJble4L45vD6ymUymN0PE0))
+
+![1676207646033](https://github.com/user-attachments/assets/83f9ca52-2aba-4ff1-92f4-ecfe7f49676e)
 
 ## Contoh Web Server Populer:
 
