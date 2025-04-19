@@ -1,6 +1,5 @@
 # 🌐 Web Server - Administrasi Sistem Jaringan (ASJ)
 
-Materi ini disusun untuk mendukung pembelajaran **Mata Pelajaran Administrasi Sistem Jaringan (ASJ)** SMK kelas 11. Fokus utama adalah pada instalasi, konfigurasi, dan manajemen layanan web server berbasis Linux.
 
 ---
 
